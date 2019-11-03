@@ -10,7 +10,7 @@ This is a small tool that does few registry and CMD tricks with a nice and user-
 
 With this tab you are just one tap away from getting all the information about your system, including Boot time,processor,WiFi card,etc
 
-![](Screenshot/systeminfo.png)
+![](Screenshots/systeminfo.png)
 
 >**Hide/Unhide Drive**
 
@@ -22,7 +22,7 @@ With this particular tab u can easily hide and unhide files and folders without 
 
 **3)** Finally click the Hide/Unhide button.
 
-![](Screenshot/hide.png)
+![](Screenshots/hide.png)
 
 >**Timer**
 
@@ -48,7 +48,7 @@ This can be used to show or hide seconds in the system clock.
 
 *Note: To view changes to this feature you would have to restart the explorer/Windows*
 
-![](Screenshot/boot.png)
+![](Screenshotsboot.png)
 
 >**Local Drive Change**
 
@@ -82,10 +82,10 @@ This can be simmply used to change the way drive letters are displayed on the My
 This can be used to merely hide/show icon in the My PC.
 
 
-![](Screenshot/drive.png)
+![](Screenshotsdrive.png)
 
 Other features include change of theme and an about pop-up.
 
-![](Screenshot/theme.png)
+![](Screenshotstheme.png)
 
-![](Screenshot/about.png)
+![](Screenshots/about.png)
