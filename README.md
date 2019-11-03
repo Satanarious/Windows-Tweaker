@@ -84,7 +84,7 @@ This can be used to merely hide/show icon in the My PC.
 
 ![](Screenshots/drive.jpg)
 
-Other features include change of theme and an about pop-up.
+**Other features include change of theme and an about pop-up.**
 
 ![](Screenshots/theme.jpg)
 
