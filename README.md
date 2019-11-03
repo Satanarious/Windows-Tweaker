@@ -82,7 +82,7 @@ This can be simmply used to change the way drive letters are displayed on the My
 This can be used to merely hide/show icon in the My PC.
 
 
-![](Screenshots/drive.jpg)
+![](Screenshots/icon.jpg)
 
 **Other features include change of theme and an about pop-up.**
 
