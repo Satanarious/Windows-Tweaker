@@ -4,7 +4,7 @@ This is a small tool that does few registry and CMD tricks with a nice and user-
 
 **The Tabs:**
 
-*Note: The software should be run as administrator for accessing all features and making them effective.*
+**Note: The software should be run as administrator for accessing all features and making them effective.**
 
 >**System Information**
 
